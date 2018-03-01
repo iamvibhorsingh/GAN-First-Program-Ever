@@ -1,7 +1,7 @@
 # GAN-First-Program-Ever
 Implemented Generative Adeversarial Network on JAFFE dataset
 
-Trained with GPU (960M) and got much better result becuase of more training (number of epochs) and results are very promising (for my forst ever GAN, especially)
+Trained with GPU (960M) and got much better result becuase of more training (number of epochs) and results are very promising (for my first ever GAN, especially)
 
 ### At epoch 160:
 
