@@ -1,6 +1,15 @@
 # GAN-First-Program-Ever
 Implemented Generative Adeversarial Network on JAFFE dataset
 
-Best result i got:
+Trained with GPU (960M) and got much better result becuase of more training (number of epochs) and results are very promising (for my forst ever GAN, especially)
+
+### At epoch 160:
+
+![160_0](https://user-images.githubusercontent.com/22034866/36828126-cb307ac2-1d3d-11e8-8dca-f653555a4ece.png)
+
+### At epoch 240
+![240_0](https://user-images.githubusercontent.com/22034866/36828127-cb5f534c-1d3d-11e8-8d8d-64eac0c7298d.png)
+
+Best result i got from training with CPU (More epochs were taking more than 2 days) -
 
 ![50_0](https://user-images.githubusercontent.com/22034866/35470318-36c6466c-036d-11e8-8531-16fa48860095.png)
