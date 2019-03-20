@@ -10,6 +10,3 @@ Trained with GPU (960M) and got much better result becuase of more training (num
 ### At epoch 240
 ![240_0](https://user-images.githubusercontent.com/22034866/36828127-cb5f534c-1d3d-11e8-8d8d-64eac0c7298d.png)
 
-Best result i got from training with CPU (More epochs were taking more than 2 days) -
-
-![50_0](https://user-images.githubusercontent.com/22034866/35470318-36c6466c-036d-11e8-8531-16fa48860095.png)
